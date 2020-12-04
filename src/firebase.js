@@ -4,14 +4,14 @@ import 'firebase/auth';
 import 'firebase/storage';
 
 const config = {
-    apiKey: "AIzaSyAd3e8PWhr5FvFUzCMqDl4L0Yo0roFvWQ0",
-    authDomain: "instavue.firebaseapp.com",
-    databaseURL: "https://instavue.firebaseio.com",
-    projectId: "instavue-7f7f6",
-    storageBucket: "gs://instavue-7f7f6.appspot.com",
-    messagingSenderId: "730294895645",
-    appId: "1:730294895645:web:f5c58a92c3a4a8a29ff2f4"
 
+    apiKey: "AIzaSyAfFoTgVdtR7_-X8WpSwnbYzlS1rwTi3ng",
+    authDomain: "instavue-90ce4.firebaseapp.com",
+    databaseURL: "https://instavue-90ce4.firebaseio.com",
+    projectId: "instavue-90ce4",
+    storageBucket: "instavue-90ce4.appspot.com",
+    messagingSenderId: "337174831887",
+    appId: "1:337174831887:web:d00dc58c91bf89676c547a"
 }
 
 firebase.initializeApp(config);
